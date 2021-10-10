@@ -1,4 +1,4 @@
-There are 5 basic image processing problems.
+There are 5 basic image processing problems:
 
 1.
 
