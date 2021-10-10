@@ -7,3 +7,8 @@ Question 2: Scene stitching with SIFT features
 
 
 Question 3: Object Recognition with HOG features
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+More details, and code, provided on colab notebook.
