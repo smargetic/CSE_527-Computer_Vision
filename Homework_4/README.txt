@@ -14,3 +14,10 @@ Problem 2.1: Fine-tune an existing network (AlexNet).
 Problem 2.2: Use the activations of the pre-trained AlexNet as features to train one-vs-all SVMs for your scene classification task.
 
 Problem 2.3:  Fine-tune the ResNet network and compare performance with AlexNet.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+More details, and code, provided on colab notebook.
