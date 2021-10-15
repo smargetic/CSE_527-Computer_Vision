@@ -19,3 +19,8 @@ Problem 2:
 Problem 2.1: Implement two basic functions in detection, generating anchor boxes of different scales and ratios.
 
 Problem 2.2: Faster-RCNN
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+More details, and code, provided on colab notebook.
