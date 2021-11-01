@@ -4,7 +4,7 @@ Introduction to basic concepts in computer vision. Low level image analysis, ima
 
 ------------------------------------------------------------------------------------------------------------
 
-Homework 1:
+Homework 1: Gaussian Filter, Median Filter, Separable filters - combining two 1D Gaussian filters, Difference of Gaussians, Histogram equalization - Essentially, a CDF is created from the histogram and mapped to a [0,255] value, and Low/high pass filters and image sharpening
 
 Homework 2:
 
