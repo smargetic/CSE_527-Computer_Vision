@@ -17,6 +17,10 @@ Problem 2.3:  Fine-tune the ResNet network and compare performance with AlexNet.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
+Feedback From Grader: Q2.2: testing accuracy is below the required value. Q2.3: testing accuracy is below the required value.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 Missing Data Folder: https://drive.google.com/drive/folders/1py43LFC32iZgt59lhuUnsdq7WRVTcBqZ?usp=sharing
 *The file was too large to upload - it is 67.3 MB zipped.
 
