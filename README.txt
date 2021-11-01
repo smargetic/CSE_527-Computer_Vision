@@ -8,7 +8,7 @@ Homework 1: Gaussian Filter, Median Filter, Separable filters - combining two 1D
 
 Homework 2: Match transformed images using SIFT features, Scene stitching with SIFT features and Object Recognition with HOG features.
 
-Homework 3:
+Homework 3: Estimate Depth with Stereo, Image Classification with Bag of SIFT Representation + SVM Classifer - Bag of SIFT Representation and one-vs-all SVMs.
 
 Homework 4:
 
