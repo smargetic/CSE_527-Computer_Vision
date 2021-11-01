@@ -21,7 +21,13 @@ Fine Tuning a Pre-Trained Deep Network
 - Fine-tune the ResNet network and compare performance with AlexNet.
 
 Homework 5:
+Ray casting using Blinn-Phong model
+- Compute camera intrinsic matrix and camera ray
+- Compute ray-object intersection
+- Render a vanilla ray casting image
+- Render a Lambertian ray casting image
 
+Implement two basic functions in detection, generating anchor boxes of different scales and ratios.
 
 ------------------------------------------------------------------------------------------------------------
 
