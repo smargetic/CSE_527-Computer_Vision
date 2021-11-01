@@ -10,7 +10,15 @@ Homework 2: Match transformed images using SIFT features, Scene stitching with S
 
 Homework 3: Estimate Depth with Stereo, Image Classification with Bag of SIFT Representation + SVM Classifer - Bag of SIFT Representation and one-vs-all SVMs.
 
-Homework 4:
+Homework 4: 
+Training a Network From Scratch
+- Try to boost the accuracy through Data Augmentation, Data Normalization, and Network Regularization.
+- Try three different techniques taught in the class to increase the accuracy of your model. The minimum accuracy required for this section is 0.60.
+
+Fine Tuning a Pre-Trained Deep Network
+- Fine-tune an existing network (AlexNet). 
+- Use the activations of the pre-trained AlexNet as features to train one-vs-all SVMs for your scene classification task.
+- Fine-tune the ResNet network and compare performance with AlexNet.
 
 Homework 5:
 
